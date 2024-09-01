@@ -181,7 +181,7 @@ function App() {
               defaultChecked={charcter}
               onChange={() => setCharacter((prev) => !prev)}
             />
-            <label htmlFor="charcter">Symbols</label>
+            <label htmlFor="charcter">Special Characters</label>
           </div>
         </div>
       </div>
